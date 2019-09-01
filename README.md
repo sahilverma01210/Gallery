@@ -14,4 +14,6 @@ Last played audio
 Audio Player
 </br></br><img src="https://github.com/SahilVerma0651/Gallery/blob/master/player.png" width="300" height="600"/></br></br>
 Video Player
-</br></br><img src="https://github.com/SahilVerma0651/Gallery/blob/master/video_player.png" width="600" height="300"/></br>
+</br></br><img src="https://github.com/SahilVerma0651/Gallery/blob/master/video_player.png" width="600" height="300"/></br></br>
+Image Viewer
+</br></br><img src="https://github.com/SahilVerma0651/Gallery/blob/master/image_viewer.png" width="300" height="600"/></br>
